@@ -1,0 +1,52 @@
+.container {
+  font-family: 'Mukta', sans-serif;
+  font-size: 1.3rem;
+  background-color: #efeeed;
+}
+#banner {
+  position: relative;
+  color: #ffff;
+}
+#banner img {
+  height: 50vh;
+  width: 100%;
+  object-fit: cover;
+}
+#banner h3 {
+  font-family: 'Inspiration', cursive;
+  font-size: 5rem;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+#banner h5 {
+  position: absolute;
+  top: 70%;
+  left: 15%;
+  font-size: 1.5rem;
+}
+#figuras figure {
+  display: flex;
+  align-items: center;
+}
+.precios {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.precios p {
+  margin: 0 0 0 0;
+}
+.imagenes {
+  height: 50vh;
+  width: 20vw;
+  margin-left: 10%;
+}
+
+#footer {
+  color: #ffff;
+  text-align: center;
+  font-size: 1.2rem;
+  background-color: #545150;
+  padding: 0.5em 0 0.5em 0;
+}
